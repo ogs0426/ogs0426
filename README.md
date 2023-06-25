@@ -16,3 +16,5 @@ gs네오택, 님버서, 롯데, 11번가등 CDN과 온라인 쇼핑몰등이 애
 서비스 백엔드 개발
 
 - https://www.spotvnow.co.kr
+
+- [경력기술서](https://github.com/ogs0426/ogs0426/blob/main/Career.md)
