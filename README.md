@@ -18,4 +18,4 @@ gs네오택, 님버서, 롯데, 11번가등 CDN과 온라인 쇼핑몰등이 애
 * 주식회사 에이클라미디어그룹 2021-02 ~ 재직 중
 서비스 백엔드 개발
 
-https://www.spotvnow.co.kr
+- https://www.spotvnow.co.kr
