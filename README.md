@@ -16,7 +16,7 @@ gs네오텍, 온라인 쇼핑몰등이 애용하는 cache 서버 솔루션
 - https://ston.readthedocs.io/ko/latest/
 - https://winesoft.co.kr/m2-main_kor.html#prod-part
 
-#### 주식회사 에이클라미디어그룹 2021-02 ~ 재직 중
+#### 주식회사 에이클라미디어그룹 2021-02 ~ 2023-08
 
 서비스 백엔드 개발
 Live OTT service
