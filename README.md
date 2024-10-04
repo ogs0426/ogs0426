@@ -18,10 +18,17 @@ gs네오텍, 온라인 쇼핑몰등이 애용하는 cache 서버 솔루션
 
 #### 주식회사 에이클라미디어그룹 2021-02 ~ 2023-09
 
-서비스 백엔드 개발
+서비스 개발 및 운영
 Live OTT service
 
 - https://www.spotvnow.co.kr
+
+#### LG 미디어 로그 2023-09 ~ 2024-11
+
+서비스 개발 및 엔지니어링
+Messaging Service (Xms)
+
+- https://msghub.uplus.co.kr/public/main
 
 -----
 
