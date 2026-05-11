@@ -23,7 +23,7 @@ Live OTT service
 
 - https://www.spotvnow.co.kr
 
-#### LG 미디어 로그 2023-09 ~ 2024-11
+#### LG 미디어 로그 2023-09 ~ 
 
 서비스 개발 및 엔지니어링
 Messaging Service (Xms)
