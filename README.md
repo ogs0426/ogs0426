@@ -32,4 +32,4 @@ Messaging Service (Xms)
 
 -----
 
-refs [경력기술서](https://github.com/ogs0426/ogs0426/blob/main/Career2.md)
+refs [경력기술서](https://github.com/ogs0426/ogs0426/blob/main/Career3.md)
