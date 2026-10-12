@@ -11,7 +11,7 @@
 #### 와인소프트(주) 2017-04 ~ 2020-05
 
 서버 프레임 워크 개발
-gs네오텍, 온라인 쇼핑몰등이 애용하는 cache 서버 솔루션
+온라인 쇼핑몰등이 애용하는 cache 서버 솔루션
 
 - https://ston.readthedocs.io/ko/latest/
 - https://winesoft.co.kr/m2-main_kor.html#prod-part
